@@ -1,0 +1,15 @@
+C:\Users\cd22\Desktop\ExamenLista\bin\Debug\net6.0\ExamenLista.exe
+C:\Users\cd22\Desktop\ExamenLista\bin\Debug\net6.0\ExamenLista.deps.json
+C:\Users\cd22\Desktop\ExamenLista\bin\Debug\net6.0\ExamenLista.runtimeconfig.json
+C:\Users\cd22\Desktop\ExamenLista\bin\Debug\net6.0\ExamenLista.dll
+C:\Users\cd22\Desktop\ExamenLista\bin\Debug\net6.0\ExamenLista.pdb
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.csproj.AssemblyReference.cache
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.AssemblyInfoInputs.cache
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.AssemblyInfo.cs
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.csproj.CoreCompileInputs.cache
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.dll
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\refint\ExamenLista.dll
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.pdb
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ExamenLista.genruntimeconfig.cache
+C:\Users\cd22\Desktop\ExamenLista\obj\Debug\net6.0\ref\ExamenLista.dll
